@@ -9,3 +9,5 @@ Eu sou o Paulo Pavan, sou programador Front End,atualmente estou aprendendo e cr
 
 ![Paulo Stats](https://github-readme-stats.vercel.app/api?username=paulopavan72)
 
+[![Top Lags](https://github-readme-stats.vercel.app/api/top-langs/?username=paulopavan72)](https://github.com/anuraghazra/github-readme-stats)
+
